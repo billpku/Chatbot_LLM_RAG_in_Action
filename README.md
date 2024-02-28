@@ -5,6 +5,6 @@ Building a Chatbot using LLM and RAG using:
 - FAISS
 - GPT-3.5
 
-**For more details,feel free to check the article [abc](http)**
+**For more details,feel free to check the article [Chatbot with LLM and RAG in Action](https://medium.com/@yingbiao/chatbot-with-llm-and-rag-in-action-575382df4323)**
 
 
