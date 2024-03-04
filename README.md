@@ -1,3 +1,4 @@
+![RAG](doc/img/RAG.png)
 # Chatbot_LLM_RAG_in_Action
 Building a Chatbot using LLM and RAG using:
 - Huggingface Transformers
